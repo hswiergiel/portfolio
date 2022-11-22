@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6b626475.css",
-    "main.js": "/portfolio/static/js/main.b1ab3818.js",
+    "main.js": "/portfolio/static/js/main.cb630b72.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/yellow.jpg": "/portfolio/static/media/yellow.65f9dd28bdf5fcb955b7.jpg",
     "static/media/green.jpg": "/portfolio/static/media/green.374ecff20d8d45f46b33.jpg",
     "static/media/blue.jpg": "/portfolio/static/media/blue.fb02e03f2ed526364417.jpg",
     "static/media/black.jpg": "/portfolio/static/media/black.0efbf8634a445e8fb34f.jpg",
-    "static/media/Hervé Swiergiel - CV.pdf": "/portfolio/static/media/Hervé Swiergiel - CV.81db2b1d9903a00de060.pdf",
+    "static/media/Hervé Swiergiel - CV.pdf": "/portfolio/static/media/Hervé Swiergiel - CV.4ffb0f78798984a30fd5.pdf",
     "static/media/Font Brush - Brush Font.otf": "/portfolio/static/media/Font Brush - Brush Font.6373a62e79513660f413.otf",
     "static/media/pictureme.png": "/portfolio/static/media/pictureme.4739feeea55e831dbb02.png",
     "static/media/la_ruche.png": "/portfolio/static/media/la_ruche.adac0c3bff31d2327b9f.png",
@@ -22,11 +22,11 @@
     "static/media/Quantum.otf": "/portfolio/static/media/Quantum.ab22dee95cbffcc89a87.otf",
     "index.html": "/portfolio/index.html",
     "main.6b626475.css.map": "/portfolio/static/css/main.6b626475.css.map",
-    "main.b1ab3818.js.map": "/portfolio/static/js/main.b1ab3818.js.map",
+    "main.cb630b72.js.map": "/portfolio/static/js/main.cb630b72.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b626475.css",
-    "static/js/main.b1ab3818.js"
+    "static/js/main.cb630b72.js"
   ]
 }
